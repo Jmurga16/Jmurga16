@@ -11,13 +11,13 @@
   <a href="https://www.linkedin.com/in/josemurgadev"><img src="https://img.shields.io/badge/LinkedIn-josemurgadev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn" /></a>
 </p>
 
-Construyo sistemas web de punta a punta, desde la base de datos hasta la interfaz y el despliegue en la nube: ERP, banca, legal y logística.
+Construyo sistemas web end to end, desde la base de datos hasta la interfaz y despliegue en la nube: ERP, banca, legal, logística, etc.
 
-- 💼 **Full Stack Developer Senior** con más de 7 años en **.NET, Angular y Azure**, y también Java/Spring Boot.
+- 💼 **Full Stack Developer Senior** con más de 7 años en **.NET, Angular y Azure**, y también Java/Spring Boot, Node y PHP.
 - 🧭 He liderado equipos y migraciones de sistemas legacy con Clean Architecture y Arquitectura Hexagonal.
 - 🤖 Llevé a producción un chatbot **RAG** con Azure OpenAI y Azure AI Search.
 - 🚀 Creo productos propios con [Devkora](https://www.devkora.com), como [Plazync](https://plazync.devkora.com) (SaaS de cocheras) y [Legal Casum](https://legalcasum.devkora.com) (gestión jurídica).
-- 🎓 Bachiller en Ingeniería de Sistemas (UNMSM), cursando la Maestría en Inteligencia Artificial.
+- 🎓 Egresado de Ingeniería de Sistemas (UNMSM), cursando la Maestría en Inteligencia Artificial.
 - 🌎 Desde Lima, Perú, trabajo en remoto con clientes de USA, España y Latinoamérica.
 
 ### 🛠️ Tecnologías
@@ -26,19 +26,20 @@ Construyo sistemas web de punta a punta, desde la base de datos hasta la interfa
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,java,spring,nodejs,react,tailwind,postgres,mongodb,mysql,redis,azure,docker,githubactions,git&perline=9" alt="C#, .NET, Angular, TypeScript, Java, Spring Boot, Node.js, React, Tailwind, PostgreSQL, MongoDB, MySQL, Redis, Azure, Docker, GitHub Actions, Git" />
 </p>
 
-También: SQL Server · Entity Framework · Dapper · RxJS · Angular Material · Azure DevOps · Azure OpenAI · Azure AI Search · xUnit · Playwright
+También: SQL Server · Entity Framework · Dapper · RxJS · Angular Material · Azure DevOps · Azure OpenAI · Azure AI Search · Playwright
 
 ### 🚀 Proyectos destacados
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
+| [Plazync](https://plazync.devkora.com) | SaaS de Gestión de Cocheras (en producción). | Angular · Spring Boot · Postgre SQL |
 | [TRAZA](https://github.com/Jmurga16/gestor-expedientes-web) · [demo](https://traza.devkora.com) | Mesa de entradas municipal: expedientes que recorren circuitos dibujados en BPMN, con trazabilidad de cada movimiento. | Angular · Spring Boot · MongoDB · Azure |
 | [SISGAPO](https://github.com/Jmurga16/sisgapo) · [demo](https://sisgapo.devkora.com) | Gestión de almacén multi-almacén con lotes y vencimientos, recuperado y auditado con CI y despliegue en Docker. | .NET · Angular · SQL Server · Docker |
 | [Chatbot RAG en Azure](https://github.com/Jmurga16/azure-rag-chatbot) | Bot con inicio de sesión OAuth que responde sobre documentos propios y cita sus fuentes. | Node.js · Azure Bot Service · Azure AI Search · Azure OpenAI |
 | [Inventario](https://github.com/Jmurga16/inventario-api) | Gestión de inventarios para tienda en línea con Clean Architecture. | .NET 8 · Angular 19 · SQL Server |
 
-**También en línea:** [Plazync](https://plazync.devkora.com) (en producción) · [Legal Casum](https://legalcasum.devkora.com) (demo) · [ERP de logística](https://logistics.devkora.com) (demo)
+**También en línea:** [Legal Casum](https://legalcasum.devkora.com) (demo) · [ERP de logística](https://logistics.devkora.com) (demo)
 
 ### 📫 Contacto
 
-¿Buscas a alguien para tu equipo o tienes un proyecto en mente? Escríbeme por [LinkedIn](https://www.linkedin.com/in/josemurgadev) o desde [josemurga.dev](https://josemurga.dev).
+Escríbeme por [LinkedIn](https://www.linkedin.com/in/josemurgadev) o desde [josemurga.dev](https://josemurga.dev).
