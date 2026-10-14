@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://josemurga.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+Senior+%C2%B7+7%2B+a%C3%B1os;.NET+%C2%B7+Angular+%C2%B7+Azure+%C2%B7+Java%2FSpring+Boot;RAG+con+Azure+OpenAI+y+Azure+AI+Search;Disponible+para+trabajo+remoto+%F0%9F%8C%8E" alt="Full Stack Developer Senior · .NET · Angular · Azure" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+Senior+%C2%B7+7%2B+a%C3%B1os;.NET+%C2%B7+Angular+%C2%B7+Azure+%C2%B7+Java%2FSpring+Boot;RAG+con+Azure+OpenAI+y+Azure+AI+Search" alt="Full Stack Developer Senior · .NET · Angular · Azure" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@ Construyo sistemas web end to end, desde la base de datos hasta la interfaz y de
 ### 🛠️ Tecnologías
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,java,spring,nodejs,react,tailwind,postgres,mongodb,mysql,redis,azure,docker,githubactions,git&perline=9" alt="C#, .NET, Angular, TypeScript, Java, Spring Boot, Node.js, React, Tailwind, PostgreSQL, MongoDB, MySQL, Redis, Azure, Docker, GitHub Actions, Git" />
+  <a name="tecnologias"><img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,java,spring,nodejs,react,tailwind,postgres,mongodb,mysql,redis,azure,docker,githubactions,git&perline=9" alt="C#, .NET, Angular, TypeScript, Java, Spring Boot, Node.js, React, Tailwind, PostgreSQL, MongoDB, MySQL, Redis, Azure, Docker, GitHub Actions, Git" /></a>
 </p>
 
 También: SQL Server · Entity Framework · Dapper · RxJS · Angular Material · Azure DevOps · Azure OpenAI · Azure AI Search · Playwright
