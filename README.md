@@ -23,7 +23,25 @@ Construyo sistemas web end to end, desde la base de datos hasta la interfaz y de
 ### 🛠️ Tecnologías
 
 <p>
-  <a name="tecnologias"><img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,java,spring,nodejs,react,tailwind,postgres,mongodb,mysql,redis,azure,docker,githubactions,git&perline=9" alt="C#, .NET, Angular, TypeScript, Java, Spring Boot, Node.js, React, Tailwind, PostgreSQL, MongoDB, MySQL, Redis, Azure, Docker, GitHub Actions, Git" /></a>
+  <a name="tecnologias">
+    <img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#" width="48" />
+    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET" width="48" />
+    <img src="https://skillicons.dev/icons?i=angular" alt="Angular" title="Angular" width="48" />
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="48" />
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" width="48" />
+    <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" title="Spring Boot" width="48" />
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="48" />
+    <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="48" />
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="48" />
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" width="48" />
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="48" />
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="48" />
+    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis" width="48" />
+    <img src="https://skillicons.dev/icons?i=azure" alt="Azure" title="Azure" width="48" />
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="48" />
+    <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions" width="48" />
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="48" />
+  </a>
 </p>
 
 También: SQL Server · Entity Framework · Dapper · RxJS · Angular Material · Azure DevOps · Azure OpenAI · Azure AI Search · Playwright
