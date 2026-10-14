@@ -32,7 +32,7 @@ También: SQL Server · Entity Framework · Dapper · RxJS · Angular Material �
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
-| [Plazync](https://plazync.devkora.com) | SaaS de Gestión de Cocheras (en producción). | Angular · Spring Boot · Postgre SQL |
+| [Plazync](https://plazync.devkora.com) | SaaS de Gestión de Cocheras (en producción). | Angular · Spring Boot · PostgreSQL |
 | [TRAZA](https://github.com/Jmurga16/gestor-expedientes-web) · [demo](https://traza.devkora.com) | Mesa de entradas municipal: expedientes que recorren circuitos dibujados en BPMN, con trazabilidad de cada movimiento. | Angular · Spring Boot · MongoDB · Azure |
 | [SISGAPO](https://github.com/Jmurga16/sisgapo) · [demo](https://sisgapo.devkora.com) | Gestión de almacén multi-almacén con lotes y vencimientos, recuperado y auditado con CI y despliegue en Docker. | .NET · Angular · SQL Server · Docker |
 | [Chatbot RAG en Azure](https://github.com/Jmurga16/azure-rag-chatbot) | Bot con inicio de sesión OAuth que responde sobre documentos propios y cita sus fuentes. | Node.js · Azure Bot Service · Azure AI Search · Azure OpenAI |
