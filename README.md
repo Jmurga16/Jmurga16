@@ -36,7 +36,6 @@ Construyo sistemas web end to end, desde la base de datos hasta la interfaz y de
     <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" width="48" />
     <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="48" />
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="48" />
-    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis" width="48" />
     <img src="https://skillicons.dev/icons?i=azure" alt="Azure" title="Azure" width="48" />
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="48" />
     <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions" width="48" />
