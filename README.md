@@ -1,21 +1,21 @@
 # Hola, soy José Murga 👋
 
-**Full Stack Developer** con 7 años construyendo aplicaciones web de punta a punta: APIs, frontends y despliegue en la nube.
-Trabajo principalmente con **.NET, Angular y Azure**, y también con **Java/Spring Boot**, PostgreSQL, SQL Server y Docker.
+**Full Stack Developer** con 7 años construyendo aplicaciones web de punta a punta: APIs, frontends y despliegue en la nube.  
+Trabajo principalmente con **.NET, Angular y Azure**, y también con **Java/Spring Boot**, PostgreSQL, SQL Server y Docker.  
 He liderado equipos de desarrollo y participado en proyectos para clientes de USA, España y Latinoamérica.
 
-📍 Lima, Perú · 🌎 Disponible para trabajo remoto
+📍 Lima, Perú · 🌎 Disponible para trabajo remoto  
 🔗 [josemurga.dev](https://josemurga.dev) · [LinkedIn](https://www.linkedin.com/in/josemurgadev)
 
 ---
 
 ### 🛠️ Stack
 
-**Backend:** C# · .NET · ASP.NET Core · Entity Framework · Java · Spring Boot · Node.js
-**Frontend:** Angular · TypeScript · RxJS · Angular Material · React
-**Datos:** SQL Server · PostgreSQL · MongoDB · Redis
-**IA:** Azure OpenAI · Azure AI Search (RAG)
-**Cloud y DevOps:** Azure · Azure DevOps (CI/CD) · Docker · GitHub Actions
+**Backend:** C# · .NET · ASP.NET Core · Entity Framework · Java · Spring Boot · Node.js  
+**Frontend:** Angular · TypeScript · RxJS · Angular Material · React  
+**Datos:** SQL Server · PostgreSQL · MongoDB · Redis  
+**IA:** Azure OpenAI · Azure AI Search (RAG)  
+**Cloud y DevOps:** Azure · Azure DevOps (CI/CD) · Docker · GitHub Actions  
 **Calidad:** xUnit · Playwright · Clean Architecture
 
 ---
