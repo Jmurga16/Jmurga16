@@ -17,7 +17,7 @@ Construyo sistemas web de punta a punta, desde la base de datos hasta la interfa
 - 🧭 He liderado equipos y migraciones de sistemas legacy con Clean Architecture y Arquitectura Hexagonal.
 - 🤖 Llevé a producción un chatbot **RAG** con Azure OpenAI y Azure AI Search.
 - 🚀 Creo productos propios con [Devkora](https://www.devkora.com), como [Plazync](https://plazync.devkora.com) (SaaS de cocheras) y [Legal Casum](https://legalcasum.devkora.com) (gestión jurídica).
-- 🎓 Ingeniero de Sistemas (UNMSM), cursando la Maestría en Inteligencia Artificial.
+- 🎓 Bachiller en Ingeniería de Sistemas (UNMSM), cursando la Maestría en Inteligencia Artificial.
 - 🌎 Desde Lima, Perú, trabajo en remoto con clientes de USA, España y Latinoamérica.
 
 ### 🛠️ Tecnologías
@@ -35,10 +35,9 @@ También: SQL Server · Entity Framework · Dapper · RxJS · Angular Material �
 | [TRAZA](https://github.com/Jmurga16/gestor-expedientes-web) · [demo](https://traza.devkora.com) | Mesa de entradas municipal: expedientes que recorren circuitos dibujados en BPMN, con trazabilidad de cada movimiento. | Angular · Spring Boot · MongoDB · Azure |
 | [SISGAPO](https://github.com/Jmurga16/sisgapo) · [demo](https://sisgapo.devkora.com) | Gestión de almacén multi-almacén con lotes y vencimientos, recuperado y auditado con CI y despliegue en Docker. | .NET · Angular · SQL Server · Docker |
 | [Chatbot RAG en Azure](https://github.com/Jmurga16/azure-rag-chatbot) | Bot con inicio de sesión OAuth que responde sobre documentos propios y cita sus fuentes. | Node.js · Azure Bot Service · Azure AI Search · Azure OpenAI |
-| [Plataforma de eventos](https://github.com/Jmurga16/plataforma-eventos-microservicios) | Arquitectura de microservicios, backlog y MVP para venta de tickets de eventos online. | .NET · RabbitMQ · PostgreSQL · Redis · React |
 | [Inventario](https://github.com/Jmurga16/inventario-api) | Gestión de inventarios para tienda en línea con Clean Architecture. | .NET 8 · Angular 19 · SQL Server |
 
-**En producción:** [Plazync](https://plazync.devkora.com) · [Legal Casum](https://legalcasum.devkora.com) · [ERP de logística](https://logistics.devkora.com)
+**También en línea:** [Plazync](https://plazync.devkora.com) (en producción) · [Legal Casum](https://legalcasum.devkora.com) (demo) · [ERP de logística](https://logistics.devkora.com) (demo)
 
 ### 📫 Contacto
 
