@@ -22,54 +22,9 @@ Construyo sistemas web end to end, desde la base de datos hasta la interfaz y de
 
 ### 🛠️ Tecnologías
 
-<table>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <a name="frontend">
-        <img src="https://skillicons.dev/icons?i=angular" alt="Angular" title="Angular" width="40" />
-        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="40" />
-        <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="40" />
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="40" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <a name="backend">
-        <img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#" width="40" />
-        <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET" width="40" />
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" width="40" />
-        <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" title="Spring Boot" width="40" />
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="40" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Datos</b></td>
-    <td>
-      <a name="datos">
-        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" width="40" />
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="40" />
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="40" />
-        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis" width="40" />
-      </a>
-      SQL Server
-    </td>
-  </tr>
-  <tr>
-    <td><b>Cloud</b></td>
-    <td>
-      <a name="cloud">
-        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" title="Azure" width="40" />
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="40" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-También: Entity Framework · Dapper · RxJS · Angular Material · Azure DevOps · Azure OpenAI · Azure AI Search · Playwright
+| Frontend | Backend | Base de datos | Cloud y extra |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=angular" alt="Angular" title="Angular" width="36" /> <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="36" /> <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="36" /> | <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET" width="36" /> <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" width="36" /> <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" title="Spring Boot" width="36" /> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="36" /> | <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" width="36" /> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="36" /> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="36" /><br>SQL Server | <img src="https://skillicons.dev/icons?i=azure" alt="Azure" title="Azure" width="36" /> <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="36" /><br>Azure OpenAI · AI Search |
 
 ### 🚀 Proyectos destacados
 
